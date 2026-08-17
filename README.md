@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/logo.png" alt="StationPlan logo" width="220">
+</p>
+
 # StationPlan
 
 A generic field-station scheduling core derived from `E:\MDOT\SCHEDULE` while
